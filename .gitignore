@@ -135,3 +135,6 @@ reports/data
 # Ignore test reports
 junit.xml
 .ipynb_checkpoints/
+
+.DS_Store
+.vscode
